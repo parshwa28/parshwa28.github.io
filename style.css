@@ -1,0 +1,116 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+nav{
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    background-color: black;
+    margin-top: 0;
+}
+hr{
+    margin-top: 40;
+    margin-left: 605px;
+    width: 125px;
+}
+.diff{
+    text-align: center;
+    margin: auto;
+    width: 30px;
+}
+section{
+    height: 700px;
+}
+#section1{
+    height: 800px;
+    background-image: url(https://mcdn.wallpapersafari.com/medium/35/48/ujkZ3O.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#logo{
+    align-self: start;
+    float: left;
+}
+ul{
+    text-align: right;
+    margin-top: 15;
+}
+li{
+    display: inline;
+    padding: 0px 15px 20px 0px;
+}
+#greeting{
+    padding-top: 300px;
+    color: white;
+    text-decoration: aliceblue;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:visited, a:link{
+    font-size: large;
+    color: white;   
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(141, 177, 194);
+    border: darkblue;
+}
+h1{
+    font-size: xx-large;
+    padding-top: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#section2{
+    color: black;
+}
+#para1{
+    padding-right: 300;
+    text-align: justify;
+    font-size: 16px;
+    margin-left: 600;
+    line-height: 2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Profile{
+    float: left;
+    padding-left: 225px;
+    padding-right: 25px;
+    padding-top: 30;
+}
+#icons{
+    display: flex;
+    padding: 10px 600px;
+}
+#section3{
+    background-color: black;
+    color: white;
+}
+.proj{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 100px;
+    padding-top: 50px;
+    border: black;
+}
+.projimg{
+    padding-top: 20px;
+}
+#proj1{
+    float: left;
+}
+#proj2{
+    float: right;
+}
+.skill{
+    padding-top: 50px;
+    font-size: large;
+}
+#section5{
+    margin-top: 100px;
+    color: white;
+    background-color: black;
+    height: 100px;
+}
